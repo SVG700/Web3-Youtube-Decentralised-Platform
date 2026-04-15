@@ -70,6 +70,19 @@ This demonstrates a seamless full-stack + blockchain interaction.
        (Reward Ledger)      (Video Files)   (Metadata + Views)
 ```
 
+
+## ⚙️ System Responsibility Split
+
+### 🔐 On-Chain (Algorand)
+- Reward settlement transactions  
+- Transparent payout records  
+- Final reward transfer to creator wallets  
+
+### 🧠 Off-Chain (Backend)
+- View tracking  
+- Basic fraud filtering  
+- Reward calculation  
+- Aggregation of views  
 ---
 
 ##  Authentication Flow
