@@ -12,7 +12,7 @@
 
 *A decentralized system for transparently rewarding video engagement using Algorand blockchain.*
 
-For this submission, we specifically focus on demonstrating a complete on-chain reward distribution flow.*
+For this submission, we specifically focus on demonstrating a complete on-chain reward distribution flow.
 
 </div>
 
@@ -221,7 +221,7 @@ https://gateway.pinata.cloud/ipfs/<CID>
 
 ---
 
-##  Reward System
+## Reward System
 
 ### Economic Actors
 
@@ -286,7 +286,8 @@ def send_reward(private_key, receiver, amount):
 ##  Project Structure
 
 ```
-payperview-platform/│
+payperview-platform/
+│
 ├── frontend/                    # React + Vite + TailwindCSS
 │   ├── src/
 │   │   ├── app/
