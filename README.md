@@ -87,7 +87,7 @@ This demonstrates a seamless full-stack + blockchain interaction.
 - Aggregation of views  
 ---
 
-##  Authentication Flow
+## Authentication Flow
 
 Wallet-based authentication using **Algorand signature verification** — no passwords, no emails.
 
