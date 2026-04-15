@@ -532,7 +532,6 @@ npm run build
 
 Swayam Shetkar — Developer, Architect, Cybersecurity, AI & Blockchain Enthusiast  
 Samhith V Gupta — Developer, Product Engineering & Strategy | Web3 & AI Enthusiast
-
 Madhan BV — Backend / System Development  
 Avyum Chhetri — Development Support  
 
