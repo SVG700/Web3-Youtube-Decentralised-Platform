@@ -10,7 +10,7 @@
 [![IPFS](https://img.shields.io/badge/Pinata-IPFS-65C2CB?logo=ipfs&logoColor=white)](https://pinata.cloud)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co)
 
-*A decentralized system for transparently rewarding video engagement using Algorand blockchain.
+*A decentralized system for transparently rewarding video engagement using Algorand blockchain.*
 
 For this submission, we specifically focus on demonstrating a complete on-chain reward distribution flow.*
 
