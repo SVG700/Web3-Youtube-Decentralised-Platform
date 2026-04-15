@@ -16,6 +16,21 @@
 
 ---
 
+## ✨ MVP Focus (Hack Series Round 2)
+
+For this submission, we focus on a single core feature:
+
+### 🔗 On-Chain Reward Distribution for Video Engagement
+
+We demonstrate a complete end-to-end flow where:
+1. A viewer watches a video  
+2. A valid view is recorded  
+3. Reward is calculated off-chain  
+4. A transaction is executed on Algorand  
+5. The creator receives rewards on-chain  
+
+This aligns with the Hack Series requirement of building one fully functional feature with a complete user-to-blockchain flow.
+
 ## 📐 System Architecture
 
 ```
