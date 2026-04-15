@@ -31,12 +31,12 @@ We demonstrate a complete end-to-end flow where:
 4. A transaction is executed on Algorand  
 5. The creator receives rewards on-chain  
 
-This aligns with the Hack Series requirement of building one fully functional feature with a complete user-to-blockchain flow.
+This aligns with the Hack Series requirement of building one fully functional feature with a complete end-to-end user-to-blockchain flow.
 
 ## 🎬 Demo Flow (End-to-End)
 
 1. User connects wallet via Pera Wallet  
-2. User opens and watches a video  
+2. User watches a video for a valid duration  
 3. Backend records a valid view  
 4. Reward is calculated based on views  
 5. Backend triggers Algorand transaction  
@@ -286,8 +286,7 @@ def send_reward(private_key, receiver, amount):
 ##  Project Structure
 
 ```
-rift-platform/
-│
+payperview-platform/│
 ├── frontend/                    # React + Vite + TailwindCSS
 │   ├── src/
 │   │   ├── app/
@@ -530,10 +529,10 @@ npm run build
 <div align="center">
 -->> Authors
 
-Swayam Shetkar — Developer, Architect, Cybersecurity , AI & Blockchain Enthusiast
-
-
-
+Swayam Shetkar — Developer, Architect, Cybersecurity, AI & Blockchain Enthusiast  
+Samhith V Gupta — Marketing Lead, Strategy & Product Positioning  
+Madhan BV — Backend / System Development  
+Avyum Chhetri — Development Support  
 
 [Frontend](https://your-app.vercel.app) · [Backend API](https://swayamshetkar-rift-backend-blockchain.hf.space) · [Algorand Explorer](https://testnet.algoexplorer.io)
 
