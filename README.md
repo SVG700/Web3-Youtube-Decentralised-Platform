@@ -531,8 +531,7 @@ npm run build
 ## 👥 Authors
 
 Swayam Shetkar — Developer, Architect, Cybersecurity, AI & Blockchain Enthusiast  
-Samhith V Gupta — Developer, Product Engineering & Strategy, Web3 & AI Enthusiast
-Madhan BV — Backend / System Development  
+Samhith V Gupta — Developer, Product Engineering & Strategy, Web3 & AI Enthusiast  Madhan BV — Backend / System Development  
 Avyum Chhetri — Development Support  
 
 [Frontend](https://your-app.vercel.app) · [Backend API](https://swayamshetkar-rift-backend-blockchain.hf.space) · [Algorand Explorer](https://testnet.algoexplorer.io)
