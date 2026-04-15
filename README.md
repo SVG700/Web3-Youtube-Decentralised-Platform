@@ -527,12 +527,14 @@ npm run build
 
 
 
-<div align="left">
+<div align="center">
+
 ## 👥 Authors
 
 Swayam Shetkar — Developer, Architect, Cybersecurity, AI & Blockchain Enthusiast  
-Samhith V Gupta — Developer, Product Engineering & Strategy, Web3 & AI Enthusiast  Madhan BV — Backend / System Development  
-Avyum Chhetri — Development Support  
+Samhith V Gupta — Developer, Product Engineering & Strategy | Web3 & AI Enthusiast  
+Madhan BV — Backend Developer & System Development  
+Avyum Chhetri — Developer & Development Support  
 
 [Frontend](https://your-app.vercel.app) · [Backend API](https://swayamshetkar-rift-backend-blockchain.hf.space) · [Algorand Explorer](https://testnet.algoexplorer.io)
 
