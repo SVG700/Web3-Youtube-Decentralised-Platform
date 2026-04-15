@@ -1,6 +1,6 @@
 <div align="center">
 
-#  RIFT — Web3 Video Ad Platform
+#  PayPerView — Web3 Video Ad Platform
 
 **Decentralized Ad-Based Video Platform on Algorand**
 
@@ -457,7 +457,7 @@ npm run build
 |------------|---------|
 | **Testnet only** | All transactions run on Algorand Testnet; not production-ready for real token value |
 | **Pera Wallet only** | No support for other Algorand wallets (Defly, Exodus, MyAlgo, etc.) |
-| **No smart-contract-controlled rewards** | Settlements are signed by a centralized backend wallet, not an escrow contract |
+| **Backend-signed reward transactions (MVP design)** | Rewards are currently distributed via backend-signed Algorand transactions for rapid MVP development. Planned upgrade to smart contract–based trustless execution.|
 | **No ASA token** | Rewards are paid in native ALGO; a custom ASA (e.g. ADMC) is not yet deployed |
 | **Single-chain** | No cross-chain or bridge support — Algorand ecosystem only |
 
