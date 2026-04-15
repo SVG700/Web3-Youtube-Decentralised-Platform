@@ -527,7 +527,7 @@ npm run build
 
 
 
-<div align="center">
+<div align="left">
 ## 👥 Authors
 
 Swayam Shetkar — Developer, Architect, Cybersecurity, AI & Blockchain Enthusiast  
