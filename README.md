@@ -31,6 +31,18 @@ We demonstrate a complete end-to-end flow where:
 
 This aligns with the Hack Series requirement of building one fully functional feature with a complete user-to-blockchain flow.
 
+## 🎬 Demo Flow (End-to-End)
+
+1. User connects wallet via Pera Wallet  
+2. User opens and watches a video  
+3. Backend records a valid view  
+4. Reward is calculated based on views  
+5. Backend triggers Algorand transaction  
+6. Creator receives reward  
+7. Transaction confirmation is displayed  
+
+This demonstrates a seamless full-stack + blockchain interaction.
+
 ## 📐 System Architecture
 
 ```
